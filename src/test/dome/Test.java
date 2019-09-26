@@ -9,4 +9,5 @@ public class Test {
     private String dd;
 
     private String  ww;
+    private String cc;
 }
