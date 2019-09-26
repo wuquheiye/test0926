@@ -6,5 +6,5 @@ public class Test {
 
     private  String bb;
 
-    private String dd;
+    private String cc;
 }
